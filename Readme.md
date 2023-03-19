@@ -2,7 +2,7 @@
 
 ## Table of Contents: Make your Github green again!!
 
-This repository is a compilation of well-written, step-by-step guides for re-creating popular technologies from scratch.
+This repository is a compilation of well-written, step-by-step guides for re-creating popular technologies from scratch.<br>
 Bu kaynak, popüler teknolojileri sıfırdan yeniden oluşturmak için iyi yazılmış, adım adım kılavuzların bir derlemesidir.
 
 
