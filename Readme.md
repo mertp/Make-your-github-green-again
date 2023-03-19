@@ -2,8 +2,9 @@
 
 ## Table of Contents: Make your Github green again!!
 
-This repository is a compilation of well-written, step-by-step guides for re-creating popular technologies from scratch.<br>
-Bu kaynak, popüler teknolojileri sıfırdan yeniden oluşturmak için iyi yazılmış, adım adım kı
+This repository is a compilation of well-written, step-by-step guides for re-creating popular technologies from scratch.
+<br>
+Bu kaynak, popüler teknolojileri sıfırdan yeniden oluşturmak için iyi yazılmış, adım adım kılavuzların bir derlemesidir.
 * [3D Renderer](#3d-renderer)
 * [Augmented Reality](#augmented-reality)
 * [BitTorrent Client](#bittorrent-client)
@@ -41,3 +42,49 @@ Bu kaynak, popüler teknolojileri sıfırdan yeniden oluşturmak için iyi yazı
 #### `BitTorrent Client`
 
 #### `Blockchain / Cryptocurrency`
+
+#### `Bot`
+
+#### `Command-Line Tool`
+
+#### `Database`
+
+#### `Docker`
+
+#### `Emulator / Virtual Machine`
+
+#### `Front-end Framework / Library`
+
+#### `Game`
+
+#### `Git`
+
+#### `Network Stack`
+
+#### `Neural Network`
+
+#### `Operating System`
+
+#### `Physics Engine`
+
+#### `Programming Language`
+
+#### `Regex Engine`
+
+#### `Search Engine`
+
+#### `Shell`
+
+#### `Template Engine`
+
+#### `Text Editor`
+
+#### `Visual Recognition System`
+
+#### `Voxel Engine`
+
+#### `Web Browser`
+
+#### `Web Server`
+
+#### Uncategorized
